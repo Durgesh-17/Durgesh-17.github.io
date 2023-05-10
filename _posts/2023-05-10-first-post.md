@@ -1,6 +1,6 @@
 ---
-title: Hello there!
-date: 2023-05-09 08:00:00 +0530
+title: First Post
+date: 2023-05-10 08:00:00 +0530
 categories: [general, fun]
 tags: [first post, blog] #tags should be lower cases
 ---
