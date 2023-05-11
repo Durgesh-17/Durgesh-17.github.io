@@ -5,6 +5,6 @@ categories: [general, fun]
 tags: [first post, blog] #tags should be lower cases
 ---
 
-# Hello there!
+#### Hello there!
 
 This is my personal site for maintaining some cool stuff and doing some interesting things in summer break.
