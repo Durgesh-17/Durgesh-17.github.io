@@ -1,8 +1,8 @@
 ---
 title: DSA in Python (Day 1)
 date: 2023-05-11 10:00:00 +0530
-categories: [DSA, Python, Linear-search and Binary search]
-tags: [dsa in python] #tags should be lower cases
+categories: [DSA, Linear-search and Binary search]
+tags: [dsa in python, binary search] #tags should be lower cases
 ---
 
 ### Problem Statement
